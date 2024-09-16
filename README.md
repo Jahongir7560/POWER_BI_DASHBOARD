@@ -7,3 +7,16 @@
   Bu yerda esa eng ko'p xarid qiluvchi va eng daromad olib keluvchi mijozlar hududlar kesimida keltirilgan.
  ## VAQT bo'yicha analiz
   Vaqt bo'yicha analiz qismida eng ko'p daromad va savdolar qaysi yilda va qaysi oyga to'g'ri kelayotgani ko'rsatib berilgan
+
+OrderHistory:
+
+![alt text](table1.png)
+
+OrderDetail:
+
+![alt text](table2.png)
+
+## PowerBI dashboard
+![alt text](page1.png)
+![alt text](page2.png)
+![alt text](page3.png)
