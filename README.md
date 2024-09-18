@@ -1,7 +1,7 @@
 # SQL query
   Men malumotlarni SQL serverga AdventureWorks2022 database ni yuklab shu orqali SQL querylar yaratganman va yangi jadval hosil qilganman va PowerBI orqali serverga ulanib dashboard yaratdim.
 # DASHBOARD da nimalar analiz qilingan
-![Alt text](g.gif)
+![alt text](g.gif)
 
  ## MAHSULOTLAR analizi
   Bu qismda mahsulotlarni kategoriyalar va hududlar bo'yicha sotilishi va qaysi mahsulot bizga ko'p daromad olib kelyapti va qaysilari eng ko'p sotilganini ko'rishimiz mumkin.
